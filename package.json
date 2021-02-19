@@ -1,0 +1,22 @@
+{
+  "name": "diuqosestacous",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diuqosestacous/diuqosestacous.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diuqosestacous/diuqosestacous/issues"
+  },
+  "homepage": "https://github.com/diuqosestacous/diuqosestacous#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
